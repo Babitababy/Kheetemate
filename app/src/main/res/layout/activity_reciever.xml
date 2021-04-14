@@ -4,7 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/reciever"
     tools:context=".reciever">
 
     <TextView
@@ -14,8 +13,8 @@
         android:layout_marginLeft="20dp"
         android:layout_marginTop="200dp"
         android:layout_marginRight="20dp"
-        android:text="Get_MESSAGE"
-        android:textColor="#FFFFFF"
+        android:text="GET_MESSAGE"
+        android:textColor="#DD2020"
         android:textSize="24sp"
         android:textStyle="bold"
        />

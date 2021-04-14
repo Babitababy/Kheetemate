@@ -37,7 +37,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="200dp"
                         android:layout_marginTop="60dp"
-                        android:background="@drawable/farmer" />
+                        android:background="@drawable/seller"/>
 
                     <TextView
                         android:id="@+id/textView1"
