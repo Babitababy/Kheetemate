@@ -15,10 +15,7 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-
-
             android:orientation="vertical">
-
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
                 android:layout_height="266dp"
@@ -35,7 +32,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:paddingBottom="20dp"
-                android:textColor="@color/black"
+                android:textColor="#E64646"
                 android:layout_marginLeft="10dp"
                 android:text="Status:"
                 android:textSize="20dp"/>
@@ -59,7 +56,7 @@
                 android:textSize="20dp"
                 android:layout_marginLeft="10dp"
                 android:layout_marginTop="15dp"
-                android:textColor="@color/black"
+                android:textColor="#E64646"
                 android:text="Transaction Id:" />
 
             <TextView
@@ -76,7 +73,7 @@
             <TextView
                 android:id="@+id/textView11"
                 android:layout_width="wrap_content"
-                android:textColor="@color/black"
+                android:textColor="#E64646"
                 android:paddingBottom="20dp"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="15dp"

@@ -3,7 +3,6 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:background="@drawable/money"
     android:layout_height="match_parent"
     tools:context=".Paymentcheckout">
     <LinearLayout
@@ -13,7 +12,7 @@
 
         <TextView
             android:id="@+id/extview"
-            android:textColor="#ffffff"
+            android:textColor="#F35252"
             android:layout_width="match_parent"
             android:layout_height="60dp"
             android:layout_marginTop="20dp"
@@ -37,7 +36,7 @@
             android:backgroundTint="#00AD8686"
             android:text="Cash On Delivery"
             android:textSize="30sp"
-            android:textColor="#ffffff"
+            android:textColor="#4AB1DF"
             android:textStyle="bold"
             android:visibility="visible"
             tools:visibility="visible" />
@@ -60,7 +59,7 @@
             android:singleLine="true"
             android:text="Paytm"
             android:textSize="30sp"
-            android:textColor="#ffffff"
+            android:textColor="#4AB1DF"
             android:textStyle="bold" />
 
         <View
@@ -76,7 +75,7 @@
             android:layout_marginTop="20dp"
             android:layout_marginBottom="20dp"
             android:text="Google Pay"
-            android:textColor="#ffffff"
+            android:textColor="#4AB1DF"
             android:textSize="30sp"
             android:textStyle="bold" />
 
@@ -92,9 +91,9 @@
             android:layout_marginStart="20dp"
             android:layout_marginTop="20dp"
             android:layout_marginBottom="20dp"
-            android:text="credit/debit card"
+            android:text="Credit/Debit Card"
             android:textSize="30sp"
-            android:textColor="#ffffff"
+            android:textColor="#4AB1DF"
             android:textStyle="bold" />
 
     </LinearLayout>
